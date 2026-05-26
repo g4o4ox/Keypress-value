@@ -25,5 +25,5 @@
 
  # Execute
  - cc code.c -o showbinary
-or
+\n or
 - gcc code.c -o showbinary
